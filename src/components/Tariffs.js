@@ -24,7 +24,7 @@ const styles = {
   container: {
     display: "flex",
     justifyContent: "center",
-    marginTop: 30,
+    marginTop: 50,
   }
 }
 
